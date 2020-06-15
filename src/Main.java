@@ -1,10 +1,13 @@
 public class Main {
 
     public static void main(String[] args) {
+
+        //declaring variables and assigning value
         int workOutDays = 10;
         double health = 8.5;
         boolean powerUp = true;
 
+        //printing statements and calling variables
         System.out.println("Number of days: " + workOutDays);
         System.out.println("Health Scale: " + health);
         System.out.println("Are you ready to power up? " + powerUp);
